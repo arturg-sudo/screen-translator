@@ -4,7 +4,7 @@
 
 Выделяйте любую область экрана и получайте перевод текста прямо поверх оригинала без лишних окон, кнопок и визуального шума.
 
-![Screen Translator Demo](demo.png)
+![Screen Translator Demo](assets/preview.png)
 
 ---
 
